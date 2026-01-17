@@ -1,7 +1,7 @@
 import datetime
 
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello from {name}!"
 
 
 if __name__ == "__main__":
