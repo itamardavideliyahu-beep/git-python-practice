@@ -12,6 +12,7 @@ def greet(name):
     return f"Hello cousin, {name}!"
     return f"Hello friend, {name}!"
     return f"Hello enemy, {name}!"
+    return f"Hello lover, {name}!"
 
 if __name__ == "__main__":
     user = "World"
