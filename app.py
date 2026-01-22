@@ -1,4 +1,5 @@
 import datetime
+import socket
 
 def greet(name):
     return f"Hello from {name}!"
